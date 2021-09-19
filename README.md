@@ -5,13 +5,21 @@ In this project, I implemented all three of the A*, BFS, and DFS search algorith
 The input is a .txt file which is structured as follows:
 
 10,10
+
 0,0
+
 5
+
 3,4,2
+
 2,2,1
+
 9,1,1
+
 5,7,2
+
 4,9,1
+
 
 the first line is the dimension of the world(10 * 10).
 the second line is the starting point if the snake.
