@@ -4,7 +4,7 @@ In this project, I implemented all three of the A*, BFS, and DFS search algorith
 
 The input is a .txt file which is structured as follows:
 
-10,10
+10,10\n
 0,0
 5
 3,4,2
